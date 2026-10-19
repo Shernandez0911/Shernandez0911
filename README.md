@@ -1,5 +1,10 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone!%20%F0%9F%95%B9%EF%B8%8F&fontSize=40&animation=fadeIn"
+    alt="Hey Everyone animated header"
+    width="100%"
+  />
 </p>
 
 ```yaml
