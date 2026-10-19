@@ -7,10 +7,12 @@
   />
 </p>
 
+<h2 align="center">A Few Things About Me</h2>
+
 ```yaml
-*name: Sebastian Hernandez
+name: Sebastian Hernandez
 Located_in: Antofagasta, Chile
-*
+
 ```
 
 
