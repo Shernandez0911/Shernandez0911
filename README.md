@@ -11,10 +11,23 @@
 
 ```yaml
 name: Sebastian Hernandez
-Located_in: Antofagasta, Chile
+located_in: Antofagasta, Chile
+fields_of_interest:
+  [
+   "Web Development"
+   "Software Engineering"
+   "Computer Networking"
+   "Game Development"
+  ]
+hobbies: ["Art","Puzzle Solving","Videogames","Deep-Dive Research"]
 
 ```
-
+<h2 align="center">Tools and Technologies I've Used</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,clion,phpstorm,unity,py,java,cs,cpp,linux,git&perline=11" />
+  </a>
+</p>
 
 <p align="center">
   <picture>
